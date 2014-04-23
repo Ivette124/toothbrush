@@ -1,0 +1,211 @@
+body{
+    background-image: url(fondillo.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    margin: 0;
+    padding: 0;
+
+}
+header{
+
+margin: 0;
+padding: 0;
+position: relative;
+overflow: hidden;
+
+
+
+}
+
+header img 
+{
+width: 88px;
+position: absolute;
+right: 0;
+top: 0;
+
+
+
+}
+header h1
+{
+background: lightgray;
+font-family: sans-serif;
+font-size: 16px;
+margin: 88px 0 0px 0;
+
+
+
+
+
+}
+
+#menu{
+
+    background:#91bcdb;
+    margin:0 auto;
+    text-align: center;
+    padding:20px 0;
+    }
+#menu ul{
+         padding: 0;
+        }
+#menu ul li{
+     display: inline-block;
+     list-style: none;
+     padding: 0.5em 1.5em 0.5em 1.5em;
+     background: #89c989;
+     margin:0 1em 1em 0;
+    border-radius: 15px
+     }
+#menu ul li a{
+     color: white;
+     text-decoration: none;
+     width: 100%; 
+     padding: 0.5em 0.5em;    
+}
+#contenido .item_1
+{
+
+position: relative;
+overflow: hidden;
+max-height: 300px
+    
+
+}
+
+
+#contenido .item_1 .celular
+
+{
+
+float: left;
+
+}
+
+#contenido .item_1 .celular img
+{
+
+width: 160px
+}
+
+#contenido .item_1 p
+
+{
+min-height: 128px
+position: absolute;
+right: 0;
+top: 0;
+margin: 1em 15px 0 180px;
+padding: 0.5em;
+background: #73BA70;
+border-radius: 15px;
+max-height: 250px;
+text-align: left;
+}
+
+#contenido .item_2 h2 a
+{
+text-decoration: none;
+color: black;
+}
+
+#contenido .item_2
+{
+
+position: relative;
+overflow: hidden;
+max-height: 800px
+    
+
+}
+
+
+#contenido .item_2 .app img
+
+{
+top: 0;
+float:left;
+width: 200px;
+}
+
+#contenido .item_2 p
+
+{
+min-height: 128px
+position: absolute;
+right: 0;
+top: 0;
+margin: 1em 15px 0 180px;
+padding: 0.5em;
+background: #91bcdb;
+border-radius: 15px;
+max-height: 250px;
+text-align: left;
+}
+
+#contenido div
+{
+ position: relative   
+}
+#contenido div p 
+{
+color: #292525; 
+font-family: sans-serif;    
+}
+#contenido div ul
+{min-height: 128px
+position: absolute;
+left: 0;
+top: 0;
+margin: 1em 15px 0 180px;
+padding: 0.5em;
+background: #73BA70;
+border-radius: 15px;
+max-height: 250px;
+text-align: left;}
+
+#contenido div figure 
+{
+position: relative;
+
+}
+#contenido div figure img
+{
+position: absolute;
+left:0;    
+width: 100px;
+padding: 2em;    
+}
+
+#contenido .item_redes
+{
+  background: #2a8170; 
+  position: relative;
+  
+}
+
+footer
+    {
+    background:lightgray;
+     color:Black;
+     text-align: center;
+    }   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
